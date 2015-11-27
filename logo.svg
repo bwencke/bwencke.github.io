@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="545px"
+   height="292px"
+   viewBox="0 0 545 292"
+   version="1.1"
+   id="svg3059"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="logo.svg">
+  <metadata
+     id="metadata3077">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1436"
+     inkscape:window-height="847"
+     id="namedview3075"
+     showgrid="false"
+     inkscape:zoom="0.66788991"
+     inkscape:cx="4.4917582"
+     inkscape:cy="146"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3059" />
+  <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3061">White Copy</title>
+  <desc
+     id="desc3063">Created with Sketch.</desc>
+  <defs
+     id="defs3065">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3886">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3888" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3890" />
+      <feGaussianBlur
+         in="composite"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur3892" />
+      <feOffset
+         dx="1"
+         dy="2"
+         result="offset"
+         id="feOffset3894" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3896" />
+    </filter>
+  </defs>
+  <g
+     id="g3868"
+     style="filter:url(#filter3886)">
+    <path
+       id="Oval-1"
+       d="M 272 46 C 223.67508 46 183.35588 80.275437 174.03125 125.84375 L 195.90625 122 C 208.41645 119.79412 218.56324 120.37504 226.375 123.78125 C 234.18676 127.18747 238.91143 133.50105 240.53125 142.6875 C 241.37779 147.48846 241.02933 151.92442 239.46875 156.03125 C 237.90818 160.1381 234.9374 163.55831 230.5625 166.28125 C 236.79162 166.51565 241.711 168.41514 245.3125 171.96875 C 248.91399 175.52237 251.18893 179.94124 252.125 185.25 C 253.85878 195.08273 251.87033 203.11673 246.15625 209.3125 C 240.44216 215.50828 231.4193 219.67042 219.09375 221.84375 L 209 223.625 C 226.19862 237.60008 248.11216 246 272 246 C 308.44059 246 340.33393 226.5011 357.8125 197.375 L 343.3125 199.9375 L 315.375 140.6875 L 314.96875 140.75 L 309.09375 205.96875 L 287.09375 209.875 L 246.125 113.125 L 269.875 108.9375 L 293.59375 172.21875 L 294 172.21875 L 299.5625 103.71875 L 317.21875 100.59375 L 345.9375 162.9375 L 346.34375 162.84375 L 347 95.34375 L 357.15625 93.5625 C 339.54452 65.027923 307.99411 46 272 46 z M 369.125 122.09375 L 366.1875 179.6875 C 369.95484 169.15906 372 157.82369 372 146 C 372 137.76375 371.00262 129.75107 369.125 122.09375 z M 204.78125 139.40625 C 203.05776 139.42568 201.17109 139.63371 199.09375 140 L 189.46875 141.6875 L 193.6875 165.71875 L 202.90625 164.09375 C 208.53815 163.10069 212.57616 161.38782 215 158.9375 C 217.42384 156.48719 218.27749 153.3152 217.59375 149.4375 C 216.83675 145.14433 214.9609 142.23982 211.9375 140.75 C 210.04788 139.81886 207.65373 139.37387 204.78125 139.40625 z M 215.84375 178.09375 C 214.73425 178.11982 213.5453 178.25032 212.28125 178.4375 L 211.53125 178.5625 L 196.4375 181.21875 L 200.875 206.5 L 215.90625 203.84375 C 220.89187 202.96465 224.47814 201.33897 226.625 198.9375 C 228.77186 196.53602 229.4663 193.28111 228.75 189.21875 C 227.993 184.92559 226.33345 181.89169 223.75 180.0625 C 221.81241 178.69061 219.17225 178.01555 215.84375 178.09375 z "
+       style="fill:#e0e0e0;stroke:none" />
+    <path
+       d="m 129.68342,179.09413 0.0733,0.41546 40.43279,5.7935 3.74836,21.25799 -65.60743,-14.13462 -3.24776,-18.41898 56.81649,-35.72127 3.73615,21.18876 -35.95186,19.61916 z"
+       id="&lt;"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#e0e0e0;stroke:none" />
+    <path
+       d="m 415.163,134.71764 -0.0733,-0.41546 -40.09878,-5.9238 -3.73615,-21.18875 65.2612,14.19568 3.24776,18.41898 -56.47025,35.66022 -3.73615,-21.18875 35.60563,-19.55812 z"
+       id="&gt;"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#e0e0e0;stroke:none" />
+    <path
+       d="m 341.7,106 -0.5,91.5"
+       id="Line"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#e0e0e0;stroke-width:10;stroke-linecap:square" />
+  </g>
+</svg>
