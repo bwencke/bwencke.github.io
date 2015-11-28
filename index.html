@@ -3,6 +3,16 @@
 <head>
 <title>Ben Wencke</title>
 <link rel="stylesheet" type="text/css" href="styles.css">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68486722-6', 'auto');
+  ga('send', 'pageview', 'homepage');
+
+</script>
 </head>
 <body>
 
@@ -11,42 +21,90 @@
         <img src="logo.png">
     </object>
     <div id="buttons">
-        <a href="mailto:benwencke@gmail.com" target="_blank">
+        <a href="mailto:benwencke@gmail.com" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'Gmail'
+        });">
             <div class="button">
                 <img src="gmail.png">
             </div>
         </a>
-        <a href="https://bwencke.wordpress.com" target="_blank">
+        <a href="https://bwencke.wordpress.com" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'Wordpress'
+        });">
             <div class="button">
                 <img src="wordpress.png">
             </div>
         </a>
-        <a href="https://www.linkedin.com/in/bwencke" target="_blank">
+        <a href="https://www.linkedin.com/in/bwencke" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'LinkedIn'
+        });">
             <div class="button">
                 <img src="linkedin.png">
             </div>
         </a>
-        <a href="https://github.com/bwencke" target="_blank">
+        <a href="https://github.com/bwencke" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'GitHub'
+        });">
             <div class="button">
                 <img src="github.png">
             </div>
         </a>
-        <a href="https://soundcloud.com/ben-wencke" target="_blank">
+        <a href="https://soundcloud.com/ben-wencke" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'SoundCloud'
+        });">
             <div class="button">
                 <img src="soundcloud.png">
             </div>
         </a>
-        <a href="https://facebook.com/bwencke" target="_blank">
+        <a href="https://facebook.com/bwencke" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'Facebook'
+        });">
             <div class="button">
                 <img src="facebook.png">
             </div>
         </a>
-        <a href="https://twitter.com/benwencke" target="_blank">
+        <a href="https://twitter.com/benwencke" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'Twitter'
+        });">
             <div class="button">
                 <img src="twitter.png">
             </div>
         </a>
-        <a href="https://www.youtube.com/user/doomrayz" target="_blank">
+        <a href="https://www.youtube.com/user/doomrayz" target="_blank" onclick="
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Links',
+            eventAction: 'click',
+            eventLabel: 'YouTube'
+        });">
             <div class="button">
                 <img src="youtube.png">
             </div>
