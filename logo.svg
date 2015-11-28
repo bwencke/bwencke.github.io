@@ -14,7 +14,10 @@
    version="1.1"
    id="svg3059"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/bwencke/bwencke.github.io/logo.png"
+   inkscape:export-xdpi="55.875"
+   inkscape:export-ydpi="55.875">
   <metadata
      id="metadata3077">
     <rdf:RDF>
@@ -23,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>White Copy</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
